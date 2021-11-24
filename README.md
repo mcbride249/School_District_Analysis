@@ -69,9 +69,9 @@ The purpose of this analysis was to use pandas to provide a breakdown of key met
     
     o	The results show that at the district level, the removal of the grade 9 student scores did cause an overall decrease in all categories but did not have a statistically         significant impact. This shows that the ninth grade students were making appositive contribution in terms of their scores being relatively high (or the same as) the             remainder of the grades.  
     
-    o	Image 1 (Original District Data) 
+    o	Image 1 (Original District Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%201%20-%20Original%20District%20Summary.png
     
-    o	Image 2 (New District Data) 
+    o	Image 2 (New District Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%202%20-%20New%20District%20Summary.png
 
 **•	How is the school summary affected?**
 
@@ -87,17 +87,17 @@ The purpose of this analysis was to use pandas to provide a breakdown of key met
 
   o	Percent of overall passing dropped from 90.94% to 90.63%.
 
-  o	Image 3 – Original School Summary Data
+  o	Image 3 – (Original School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%203%20-%20Original%20School%20Summary%20Data.PNG
 
-  o	Image 4 – New School Summary Data
+  o	Image 4 – (New School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%204%20-%20New%20School%20Summary%20Data.PNG
 
 **•	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
   o	Replacing the ninth grade scores did not actually impact Thomas High School’s ranking. It remained as the second best school in the district.
   
-  o	Image 5 (Original Top 5 Schools)
+  o	Image 5 (Original Top 5 Schools): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%205%20-%20Original%20Top%205%20Schools.PNG
   
-  o	Image 6 (New Top 5 Schools)
+  o	Image 6 (New Top 5 Schools): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%206%20-%20New%20Top%205%20Schools.PNG
 
 **•	How does replacing the ninth-grade scores affect the following:**
 
@@ -105,17 +105,17 @@ The purpose of this analysis was to use pandas to provide a breakdown of key met
   
         o The math and reading scores were removed in the new analysis and replaced with NaN.
   
-        o Image 7 (Old Math & Reading Scores)
+        o Image 7 (Old Math & Reading Scores): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%207%20-%20Old%20Math%20%26%20Reading%20Scores.PNG
   
-        o Image 8 (New Math & Reading Scores)
+        o Image 8 (New Math & Reading Scores): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%208%20-%20New%20Math%20%26%20Reading%20Scores.PNG
 
   o **Scores by school spending**
         
         o School spending per student remained the same (this spending was not affected by the removal of the ninth graders’ grades), however thee overall passing percentage did           drop from 90.94% to 90.63%
         
-        o	Image 3
-        
-        o	Image 4 
+        o Image 3 (Original School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%203%20-%20Original%20School%20Summary%20Data.PNG  
+
+       o Image 4 (New School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%204%20-%20New%20School%20Summary%20Data.PNG
 
   o **Scores by school size**
 
@@ -123,17 +123,17 @@ The purpose of this analysis was to use pandas to provide a breakdown of key met
        
         o The size of Thomas High school did not change and was not affected by the alteration of the ninth-grade students’ grades. 
         
-        o Image 9 (Old School Size Summary)
+        o Image 9 (Old School Size Summary): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%209%20-%20Old%20School%20Size%20Summary.PNG
         
-        o Image 10 (New School Size Summary)
+        o Image 10 (New School Size Summary): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%2010%20-%20New%20School%20Size%20Summary.PNG
 
   o **Scores by school type.**
 
         o There was no change to the scores or averages based on the type; alls cores remained the same.
 
-        o Image 11 (Old School Type)
+        o Image 11 (Old School Type): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%2011%20-%20Old%20School%20Type.PNG
 
-        o Image 12 (New School Type)
+        o Image 12 (New School Type): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%2012%20-%20New%20School%20Type.PNG
         
 **•Summary**
 
