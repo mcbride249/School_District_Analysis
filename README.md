@@ -1,5 +1,34 @@
 **#School_District_Analysis**
 
+**##Project Overview**
+
+The chief data schientist of a school district has tasked us with getting key metrics regarding standardized testing data including student funding and student standardized test scores.
+
+**Goals:**
+Calculate the total number of students
+Calculate the total number of schools
+Calculate the total budget
+Calculate the average math score
+Calculate the average reading score
+Calculate the percentage of students who passed math
+Calculate the percentage of students who passed reading
+Calculate the overall passing percentage
+
+**##Resources**
+
+Data Source: clean_students_complete.csv, students_complete.csv, schools_complete.csv -Software: Python 3.7.10, Anaconda Navigator, Visual Studio Code, 1.38.1
+
+**##Summary**
+
+Total number of students: 15
+Total number of schools: 39,170
+Total budget: $24,649,428.00
+Average math score: 79%
+Average reading score: 81.9%
+Percentage of students who passed math: 75%
+Percentage of students who passed reading: 86%
+Overall passing percentage:65%
+
 **##Module 4 Challenge - Written Analysis**
 
 **##Challenge Overview**
