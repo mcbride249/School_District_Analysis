@@ -115,7 +115,7 @@ The purpose of this analysis was to use pandas to provide a breakdown of key met
         
         o Image 3 (Original School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%203%20-%20Original%20School%20Summary%20Data.PNG  
 
-       o Image 4 (New School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%204%20-%20New%20School%20Summary%20Data.PNG
+        o Image 4 (New School Summary Data): https://github.com/mcbride249/School_District_Analysis/blob/main/Resources/Image%204%20-%20New%20School%20Summary%20Data.PNG
 
   o **Scores by school size**
 
