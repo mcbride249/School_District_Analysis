@@ -56,34 +56,40 @@ The purpose of this analysis was to use pandas to provide a breakdown of key met
 
 **•	How does replacing the ninth-grade scores affect the following:**
 
-  o	Math and reading scores by grade.
+    o **Math and reading scores by grade**.
   
-  o The math and reading scores were removed in the new analysis and replaced with NaN.
+        o The math and reading scores were removed in the new analysis and replaced with NaN.
   
-  o	Image 7 (Old Math & Reading Scores)
+        o Image 7 (Old Math & Reading Scores)
   
-  o Image 8 (New Math & Reading Scores)
+        o Image 8 (New Math & Reading Scores)
 
+  o **Scores by school spending**
+        
+        o School spending per student remained the same (this spending was not affected by the removal of the ninth graders’ grades), however thee overall passing percentage did           drop from 90.94% to 90.63%
+        
+        o	Image 3
+        
+        o	Image 4 
 
+  o **Scores by school size**
 
+        o There was not overall change to the overall passing rate or math and reading scores or percentages beyond a decimal.
+       
+        o The size of Thomas High school did not change and was not affected by the alteration of the ninth-grade students’ grades. 
+        
+        o Image 9 (Old School Size Summary)
+        
+        o Image 10 (New School Size Summary)
 
+  o **Scores by school type.**
 
+        o There was no change to the scores or averages based on the type; alls cores remained the same.
 
+        o Image 11 (Old School Type)
 
-•	Scores by school spending
-o	School spending per student remained the same (this spending was not affected by the removal of the ninth graders’ grades), however thee overall passing percentage did drop from 90.94% to 90.63%
-o	Image 3
-o	Image 4 
+        o Image 12 (New School Type)
+        
+**•Summary**
 
-•	Scores by school size
-o	There was not overall change to the overall passing rate or math and reading scores or percentages beyond a decimal.
-o	The size of Thomas High school did not change and was not affected by the alteration of the ninth-grade students’ grades. 
-o	Image 9 (Old School Size Summary)
-o	Image 10 (New School Size Summary)
-
-•	Scores by school type.
-o	There was no change to the scores or averages based on the type; alls cores remained the same.
-o	Image 11 (Old School Type)
-o	Image 12 (New School Type)
-•	Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-•	In summary, the removal of the ninth-grade data did have a number of minor affects on the overall data performance. The average math score decreased from 79.0% to 78.9%, the average reading score remained the same at 81.9%, the passing math percentage decreased from 75% to  74.8%, the passing reading percentage decreased to 86% to 85.7%, and the overall passing percentage decreased 65% to 64.9. While these changes may be small and not statistically significant, it does reveal how the ninth- grade students impacted the overall performance of the school. 
+    o In summary, the removal of the ninth-grade data did have a number of minor affects on the overall data performance. The average math score decreased from 79.0% to 78.9%,         the average reading score remained the same at 81.9%, the passing math percentage decreased from 75% to  74.8%, the passing reading percentage decreased to 86% to 85.7%,         and the overall passing percentage decreased 65% to 64.9. While these changes may be small and not statistically significant, it does reveal how the ninth- grade students       impacted the overall performance of the school.o
